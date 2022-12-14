@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá eu me chamo Davi, seja muito bem vindo 👋
 
 <!--
 **SallesThe/SallesThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente estou trabalhando como Técnico em Web Design na [Montreal Informática](https://www.montreal.com.br/);
+- 🌱 Estou estudando tecnologias relacionadas ao Front-End  e arranhando um pouco em Back-End com C# e NodeJS;
+- 💬 Converse comigo sobre HTML, CSS, Banco de dados e JavaScript (Eu disse JavaScript, não Java 😄); 
+- 📫 E-mail para contato: thesallesofficial@gmail.com;

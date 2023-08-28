@@ -27,6 +27,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SallesThe&repo=boletim_alunos&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/SallesThe/boletim_alunos)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SallesThe&repo=average_grades&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/SallesThe/boletim_alunos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SallesThe&repo=average_grades&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/SallesThe/average_grades)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SallesThe&repo=Osvaldo_Encurta_Link&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/SallesThe/boletim_alunos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SallesThe&repo=Osvaldo_Encurta_Link&bg_color=DDE392&border_color=AFBE8F&show_icons=true&icon_color=646F58&title_color=000&text_color=000)](https://github.com/SallesThe/Osvaldo_Encurta_Link)

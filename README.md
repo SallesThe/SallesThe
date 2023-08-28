@@ -1,4 +1,4 @@
-# Davi Sales Barcelos
+# Davi Sales Barcelos | The Salles
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DDE392?style=for-the-badge&logo=linkedin&logoColor=7D8570)](https://www.linkedin.com/in/thesalles/)
